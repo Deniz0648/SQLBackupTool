@@ -1,4 +1,5 @@
 SQL Backup Tool
+
 Windows Forms tabanlı otomatik SQL yedekleme aracıdır. Belirlenen zaman aralıklarında veritabanı yedeklerini alır, eski dosyaları temizler, işlem loglarını oluşturur ve isteğe bağlı e‑posta bildirimi gönderir.
 ________________________________________
 Özellikler
