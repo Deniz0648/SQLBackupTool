@@ -72,5 +72,6 @@ Kurulum
 3.	Yedekleme döngüsü otomatik olarak başlayacaktır.
 ________________________________________
 Loglama
+
 •	Tüm yedekleme ve hata mesajları uygulama içi konsol ekranında görüntülenir.
 •	İsteğe bağlı olarak SMTP üzerinden alıcı e‑postasına iletilir.
